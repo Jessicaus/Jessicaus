@@ -26,4 +26,7 @@ I’m a developer exploring different areas of programming, from algorithms to d
 ## 🌱 What I’m Learning
 - Expanding my skills in React for building more interactive and modern web applications.
 
+## Fun fact
+- I love history/economics! This is a [website](https://site.nhd.org/93091374/home) I did about the Great Society in the 1960s.
+
 Check out my repositories for more of what I’ve been working on!
