@@ -29,4 +29,6 @@ I’m a developer exploring different areas of programming, from algorithms to d
 ## Fun fact
 - I love history/economics! This is a [website](https://site.nhd.org/93091374/home) I did about the Great Society in the 1960s.
 
+## Collaboration Projects
+- 2025 Hoth XII Hackathon https://github.com/saanvisuri06/hoth/tree/main/hoth_kindness
 Check out my repositories for more of what I’ve been working on!
