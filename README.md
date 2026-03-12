@@ -31,4 +31,5 @@ I’m a developer exploring different areas of programming, from algorithms to d
 
 ## Collaboration Projects
 - 2025 Hoth XII Hackathon https://github.com/saanvisuri06/hoth/tree/main/hoth_kindness
+- Math 168 2026 Project: https://github.com/mosesf1/M168
 Check out my repositories for more of what I’ve been working on!
